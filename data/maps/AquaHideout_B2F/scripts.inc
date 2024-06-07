@@ -90,33 +90,33 @@ AquaHideout_B2F_EventScript_Grunt8::
 	end
 
 AquaHideout_B2F_Text_MattIntro:
-	.string "Hehehe…\p"
-	.string "Got here already, did you?\n"
-	.string "We underestimated you!\p"
-	.string "But this is it!\p"
-	.string "I'm a cut above the GRUNTS you've seen\n"
-	.string "so far.\p"
-	.string "I'm not stalling for time.\n"
-	.string "I'm going to pulverize you!$"
+	.string "Oh uhh…\p"
+	.string "You got here already?\n"
+	.string "Erm chat?\p"
+	.string "CASSIE told me about you.\p"
+	.string "Uhh I guess I have to stop\n"
+	.string "you know.\p"
+	.string "......\n"
+	.string "yea.$"
 
 AquaHideout_B2F_Text_MattDefeat:
-	.string "Hehehe…\n"
-	.string "So, I lost, too…$"
+	.string "oh you won…\n"
+	.string "That's a shame…$"
 
 AquaHideout_B2F_Text_OurBossGotThroughHisPreparations:
-	.string "Hehehe!\p"
-	.string "While I was toying with you, our BOSS\n"
-	.string "got through his preparations!$"
+	.string "Uhhh...\p"
+	.string "I think CASSIE should be done\n"
+	.string "by now. So uh yeah.$"
 
 AquaHideout_B2F_Text_MattPostBattle:
-	.string "Hehehe!\p"
-	.string "Our BOSS has already gone on his way to\n"
-	.string "some cave under the sea!\p"
-	.string "If you're going to give chase, you'd\n"
-	.string "better search the big, wide sea beyond\l"
-	.string "LILYCOVE.\p"
-	.string "But will you find it then?\n"
-	.string "Hehehe!$"
+	.string "Hmmm...\p"
+	.string "Having more drinks would be\n"
+	.string "nice ya know.\p"
+	.string "I should be heading back now,\n"
+	.string "Where was LILYCOVE city again?\l"
+	.string "Cassie said to meet there.\p"
+	.string "But like in the oceans?\n"
+	.string "What does that mean?$"
 
 AquaHideout_B2F_Text_Grunt4Intro:
 	.string "Wahahah, I grew weary of waiting!\n"
@@ -149,7 +149,7 @@ AquaHideout_B2F_Text_Grunt6PostBattle:
 	.string "chew me out…$"
 
 AquaHideout_B2F_Text_Grunt8Intro:
-	.string "When I joined TEAM AQUA, the first\n"
+	.string "When I joined TEAM BAND, the first\n"
 	.string "thing I had to learn was how these\l"
 	.string "warp panels connected.$"
 

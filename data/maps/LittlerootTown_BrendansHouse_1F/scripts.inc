@@ -325,8 +325,8 @@ PlayersHouse_1F_Text_ItsOverWeMissedHim:
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
 	.string "Oh, yes.\n"
-	.string "One of DAD's friends lives in town.\p"
-	.string "PROF. BIRCH is his name.\p"
+	.string "The guy you saw in the intro.\p"
+	.string "MR. ITANI is his name.\p"
 	.string "He lives right next door, so you should\n"
 	.string "go over and introduce yourself.$"
 
@@ -335,7 +335,7 @@ PlayersHouse_1F_Text_SeeYouHoney:
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch:
 	.string "MOM: Did you introduce yourself to\n"
-	.string "PROF. BIRCH?$"
+	.string "MR. ITANI?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
 	.string "MOM: How are you doing, {PLAYER}?\n"
@@ -346,7 +346,7 @@ PlayersHouse_1F_Text_TakeCareHoney:
 	.string "MOM: Take care, honey!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "MOM: Oh? Did DAD give you that BADGE?\p"
+	.string "MOM: Oh? You got your 5th badge?\p"
 	.string "Then here's something from your MOM!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
@@ -390,31 +390,31 @@ PlayersHouse_1F_Text_RunningShoesManual:
 	.string "the road running!”$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
-	.string "DAD: Hm?\p"
+	.string "STONEHAM: Hm?\p"
 	.string "Hey, it's {PLAYER}!\p"
 	.string "It's been a while since I saw you,\n"
 	.string "but you look…stronger, somehow.\p"
 	.string "That's the impression I get.\n"
-	.string "But your old man hasn't given up yet!\p"
+	.string "But I haven't given up yet!\p"
 	.string "Oh, yes, I have something for you.\n"
 	.string "This came to you from someone named\l"
 	.string "MR. BRINEY.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
-	.string "DAD: Hm, a TICKET for a ferry?\p"
+	.string "STONEHAM: A TICKET for a ferry?\p"
 	.string "If I recall, there are ferry ports in\n"
 	.string "SLATEPORT and LILYCOVE.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
 	.string "I'd better get back to PETALBURG GYM.\p"
-	.string "MOM, thanks for looking after the house\n"
-	.string "while I'm away.$"
+	.string "MOM, thanks for taking care of them\n"
+	.string "and stuff.$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-	.string "MOM: That DAD of yours…\p"
+	.string "MOM: That friend of yours…\p"
 	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is POKéMON.\p"
-	.string "He should relax and stay a little longer.$"
+	.string "while, but he always tries to flirt.\p"
+	.string "Kinda freaky tbh.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
 	.string "MOM: Is that a breaking news story?$"

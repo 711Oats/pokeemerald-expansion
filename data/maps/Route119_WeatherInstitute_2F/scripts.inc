@@ -221,10 +221,10 @@ Route119_WeatherInstitute_2F_Text_Grunt2Defeat:
 Route119_WeatherInstitute_2F_Text_Grunt2PostBattle:
 	.string "If the POKéMON they made here can\n"
 	.string "control the weather freely, then we of\l"
-	.string "TEAM AQUA definitely need it!$"
+	.string "TEAM BAND definitely need it!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3Intro:
-	.string "We're TEAM AQUA!\n"
+	.string "We're TEAM BAND!\n"
 	.string "We appear wherever anything rare is\l"
 	.string "found!$"
 
@@ -233,7 +233,7 @@ Route119_WeatherInstitute_2F_Text_Grunt3Defeat:
 
 Route119_WeatherInstitute_2F_Text_Grunt3PostBattle:
 	.string "You don't have any idea what we of\n"
-	.string "TEAM AQUA are working towards!\l"
+	.string "TEAM BAND are working towards!\l"
 	.string "You stay out of our way!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5Intro:
@@ -252,27 +252,27 @@ Route119_WeatherInstitute_2F_Text_Grunt5PostBattle:
 	.string "Ihihihihi…$"
 
 Route119_WeatherInstitute_2F_Text_ShellyIntro:
-	.string "Ahahahaha!\p"
-	.string "You're going to meddle in TEAM AQUA's\n"
-	.string "affairs?\p"
-	.string "You're either absolutely fearless,\n"
-	.string "simply ignorant, or both!\p"
-	.string "You're so cute, you're disgusting!\n"
-	.string "I'll put you down, kiddy!$"
+	.string "Ohmagah.\p"
+	.string "You maede it hejre?\n"
+	.string "Ermmm?\p"
+	.string "Oh uh yeah you shouldn't,\n"
+	.string "CASSIE said we need stuff here!\p"
+	.string "Souh don't evan tri!\n"
+	.string "Perpare ti batyle!$"
 
 Route119_WeatherInstitute_2F_Text_ShellyDefeat:
-	.string "Ahahahaha!\n"
-	.string "You're disgustingly strong!$"
+	.string "i Shousld be talking slower.\n"
+	.string "Yeah, anyways. WHAT?!?!$"
 
 Route119_WeatherInstitute_2F_Text_ShellyPostBattle:
-	.string "It's bad enough to have TEAM MAGMA\n"
-	.string "blunder about, but now there's you!\p"
-	.string "What makes you want to sniff around\n"
-	.string "in our business, anyway?$"
+	.string "Umm yeah congrats on winning,\n"
+	.string "but we're still getting our water!\p"
+	.string "We're gonna GET YOU\n"
+	.string "eventually, anyway.$"
 
 Route119_WeatherInstitute_2F_Text_TeamMagmaJustPassedBy:
 	.string "We have a situation here!\p"
-	.string "A TEAM MAGMA mob just passed\n"
+	.string "A TEAM ROBOTICS mob just passed\n"
 	.string "the WEATHER INSTITUTE.\p"
 	.string "They appear to be headed for\n"
 	.string "MT. PYRE!$"
@@ -282,7 +282,7 @@ Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre:
 	.string "We can't waste any more time here!\n"
 	.string "We have to hurry to MT. PYRE, too!\p"
 	.string "Ahahahaha!\n"
-	.string "TEAM MAGMA, just you wait!$"
+	.string "TEAM ROBOTICS, just you wait!$"
 
 Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon:
 	.string "Thanks!\n"

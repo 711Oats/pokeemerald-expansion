@@ -143,30 +143,30 @@ SkyPillar_Outside_Text_DoorIsClosed:
 	.string "The door is closed.$"
 
 SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
-	.string "WALLACE: Oh, my, I'm terribly sorry!\p"
-	.string "In my haste, I didn't notice that\n"
-	.string "I'd left you behind!\p"
-	.string "I've opened the locked door of\n"
-	.string "the SKY PILLAR.\p"
-	.string "{PLAYER}{KUN}, let's be on our way!$"
+	.string "OMAR: Oh uh Sky Pillar is open.\p"
+	.string "It's the next stop in this\n"
+	.string "story and is neat.\p"
+	.string "I forgot where it was I\n"
+	.string "think.\p"
+	.string "Well let's go then!$"
 
 SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
-	.string "WALLACE: It's an earthquake!\p"
-	.string "There's not a moment to waste!\n"
-	.string "We've got to hurry!$"
+	.string "OMAR: Did you feel that?\p"
+	.string "California kinda desensitizes you\n"
+	.string "to random earthquakes.$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:
-	.string "WALLACE: Hmm…\n"
-	.string "The situation is getting worse…$"
+	.string "OMAR: Erm...\n"
+	.string "Somethings wrong here.$"
 
 SkyPillar_Outside_Text_GotToGoBackForSootopolis:
-	.string "WALLACE: This isn't good…\p"
-	.string "The weather distortion is spreading\n"
-	.string "even here…\p"
+	.string "OMAR: Oh we reached\p"
+	.string "this part of the game now.\n"
+	.string "So uhhh,\p"
 	.string "{PLAYER}{KUN}.\p"
 	.string "RAYQUAZA should be farther up\n"
 	.string "from here.\p"
-	.string "I'm worried about SOOTOPOLIS.\n"
-	.string "I've got to go back.\p"
-	.string "Everything is in your hands now.\n"
-	.string "Don't fail us!$"
+	.string "I'm gonn head back to SOOTOPOLIS.\n"
+	.string "I left my oven on there.\p"
+	.string "The fate of the world rests on you,\n"
+	.string "so no pressure.$"

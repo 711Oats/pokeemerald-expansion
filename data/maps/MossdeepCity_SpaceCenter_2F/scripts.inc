@@ -356,7 +356,7 @@ MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets:
 	.string "rockets.$"
 
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel:
-	.string "Why would TEAM MAGMA want to steal\n"
+	.string "Why would TEAM ROBOTICS want to steal\n"
 	.string "our rocket fuel in the first place?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
@@ -366,7 +366,7 @@ MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
 	.string "I can and will try!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis:
-	.string "If TEAM MAGMA takes the rocket fuel,\n"
+	.string "If TEAM ROBOTICS takes the rocket fuel,\n"
 	.string "I won't be able to go to space!\p"
 	.string "They can't be allowed to get away\n"
 	.string "with such an outrage!$"
@@ -376,7 +376,7 @@ MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace:
 	.string "space one day…$"
 
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace:
-	.string "TEAM MAGMA…\n"
+	.string "TEAM ROBOTICS…\n"
 	.string "Do they want to go to space, too?$"
 
 MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn:
@@ -432,24 +432,24 @@ MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
 	.string "we'll take care of you at the same time!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MAXIE: Clear out of the way!\n"
-	.string "Don't you dare interfere!$"
+	.string "OLLIE: Clear out of the way!\n"
+	.string "Don't interrupt!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
-	.string "STEVEN: TEAM MAGMA…\p"
+	.string "STEVEN: TEAM ROBOTICS…\p"
 	.string "What's the point of stealing rocket\n"
 	.string "fuel?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Since you're so\n"
+	.string "OLLIE: Fufufu… Since you're so\n"
 	.string "curious, you deserve an explanation.\p"
-	.string "We're going to jettison the entire\n"
+	.string "We're going to dump the entire\n"
 	.string "load into MT. CHIMNEY!\p"
 	.string "With GROUDON gone, we have no need\n"
-	.string "for that slag heap of a mountain!\p"
+	.string "for that heap of ash!\p"
 	.string "So we'll use the fuel's power to make\n"
 	.string "the volcano erupt!\p"
-	.string "It will be savage!$"
+	.string "It will be amazing!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
 	.string "STEVEN: {PLAYER}{KUN}!\n"
@@ -466,25 +466,25 @@ MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
 	.string "I just want to expand the land mass…$"
 
 MossdeepCity_SpaceCenter_Text_TabithaDefeat:
-	.string "I'm with our leader…$"
+	.string "I'm with OLLIE…$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MAXIE: We failed to make the volcano\n"
+	.string "OLLIE: We failed to make the volcano\n"
 	.string "erupt…\p"
 	.string "We failed to control GROUDON after\n"
 	.string "we had awoken it…\p"
 	.string "Is our goal to expand the land\n"
-	.string "misguided?\p"
+	.string "not a good plan?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "If…\n"
-	.string "If we, TEAM MAGMA, are wrong…\l"
+	.string "If we, TEAM ROBOTICS, are wrong…\l"
 	.string "… … … … … …\p"
-	.string "Then might TEAM AQUA's goal to expand\n"
-	.string "the sea also be equally misguided?$"
+	.string "Then might TEAM BAND's goal to get\n"
+	.string "more water also be equally misguided?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MAXIE: All right…\n"
+	.string "OLLIE: All right…\n"
 	.string "We will give up on the fuel…\p"
 	.string "There appear to be more important\n"
 	.string "matters that I must examine…$"

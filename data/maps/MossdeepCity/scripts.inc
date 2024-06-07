@@ -349,11 +349,11 @@ MossdeepCity_Text_SpaceCenterLaunchingRockets:
 
 MossdeepCity_Text_MossdeepTargetedByMagma:
 	.string "I heard from a SAILOR buddy that\n"
-	.string "TEAM AQUA set up shop in LILYCOVE.\p"
+	.string "TEAM BAND set up shop in LILYCOVE.\p"
 	.string "I also heard that someone came along\n"
 	.string "and wiped the floor with them!\p"
 	.string "But MOSSDEEP here's been targeted\n"
-	.string "by that TEAM MAGMA.\p"
+	.string "by that TEAM ROBOTICS.\p"
 	.string "If you want to know what they're up to,\n"
 	.string "go visit the SPACE CENTER.$"
 
@@ -399,8 +399,8 @@ MossdeepCity_Text_ItsAWhiteRock:
 
 MossdeepCity_Text_GymSign:
 	.string "MOSSDEEP CITY POKéMON GYM\n"
-	.string "LEADERS: LIZA & TATE\p"
-	.string "“The mystic combination!”$"
+	.string "LEADERS: ZACH & ADEL\p"
+	.string "“The dynamic duo!”$"
 
 MossdeepCity_Text_CitySign:
 	.string "MOSSDEEP CITY\n"
@@ -430,6 +430,6 @@ MossdeepCity_Text_SootopolisNewGymLeader:
 	.string "island city SOOTOPOLIS?\p"
 	.string "I think the GYM there had a new\n"
 	.string "LEADER come in.\p"
-	.string "People tell me the new LEADER once\n"
-	.string "mentored WALLACE.$"
+	.string "People tell me the new LEADER\n"
+	.string "is the CHAMPION's friend.$"
 

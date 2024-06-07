@@ -625,7 +625,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_ImPullingForYou:
 
 LilycoveCity_PokemonTrainerFanClub_Text_BrawlyNoImYourFan:
 	.string "Sigh…\n"
-	.string "BRAWLY…\p"
+	.string "CECELY…\p"
 	.string "Oh, no! Wait!\n"
 	.string "That's not right! No, no, no!\p"
 	.string "I'm your fan through and through!\p"
@@ -634,22 +634,22 @@ LilycoveCity_PokemonTrainerFanClub_Text_BrawlyNoImYourFan:
 
 LilycoveCity_PokemonTrainerFanClub_Text_ICantHelpLikingBrawly:
 	.string "I can't help it, I can only get to\n"
-	.string "like BRAWLY…$"
+	.string "like CECELY…$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly:
 	.string "Nobody understands the charm of\n"
-	.string "BRAWLY…\p"
+	.string "CECELY…\p"
 	.string "I don't care!\p"
 	.string "Even if I'm the only one, I'm going\n"
-	.string "to keep cheering for BRAWLY!$"
+	.string "to keep cheering for CECELY!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly:
 	.string "Whatever anyone says, my favorite\n"
 	.string "TRAINER is DEWFORD's GYM LEADER\l"
-	.string "BRAWLY!$"
+	.string "CECELY!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather:
-	.string "You've surpassed your own father in\n"
+	.string "You've surpassed STONEHAM in\n"
 	.string "every regard!\p"
 	.string "I'm telling you, so there's no question\n"
 	.string "about it at all!$"
@@ -662,18 +662,18 @@ LilycoveCity_PokemonTrainerFanClub_Text_YourFatherNeverGaveUpSoKeepOnBattling:
 	.string "So keep on battling!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_LongWayToGoComparedToNorman:
-	.string "NORMAN battled with more power,\n"
-	.string "charisma, and showmanship than you.\p"
+	.string "STONEHAM has fought a lot,\n"
+	.string "he isn't the best at it but he tries.\p"
 	.string "Even though people may say that\n"
 	.string "you're strong…\p"
 	.string "You've still got a long way to go\n"
-	.string "compared to your father.$"
+	.string "in your joruney.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouAndNormanAreDifferent:
 	.string "You're beginning to get the same\n"
-	.string "air of awe NORMAN exudes.\p"
+	.string "air of awe STONEHAM exudes.\p"
 	.string "But there's something conclusively\n"
-	.string "different between you and NORMAN.\p"
+	.string "different between you and STONEHAM.\p"
 	.string "I can't tell you what that is.\n"
 	.string "You'll have to find it yourself.$"
 

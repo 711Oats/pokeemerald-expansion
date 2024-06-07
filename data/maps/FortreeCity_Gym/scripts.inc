@@ -136,17 +136,17 @@ FortreeCity_Gym_EventScript_GymStatue::
 FortreeCity_Gym_Text_GymGuideAdvice:
 	.string "Yo, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
-	.string "FORTREE GYM LEADER WINONA is\n"
-	.string "a master of FLYING-type POKéMON.\p"
-	.string "She's waiting at the back of this GYM,\n"
-	.string "behind the rotating doors.\p"
-	.string "She's waiting for new challengers\n"
-	.string "who are trying to take wing!\p"
+	.string "FORTREE GYM LEADER ELIAJHA \n"
+	.string "uses a variety of POKeMON.\p"
+	.string "He has a close bond with all,\n"
+	.string "of them.\p"
+	.string "Navigate the gym using these\n"
+	.string "revolving doors!\p"
 	.string "Okay, go for it!$"
 
 FortreeCity_Gym_Text_GymGuidePostVictory:
 	.string "You did it!\n"
-	.string "You've achieved liftoff!$"
+	.string "You beat him!$"
 
 FortreeCity_Gym_Text_JaredIntro:
 	.string "Behold the elegant battle style of\n"
@@ -179,32 +179,32 @@ FortreeCity_Gym_Text_EdwardoPostBattle:
 	.string "myself even stronger.$"
 
 FortreeCity_Gym_Text_FlintIntro:
-	.string "There's no need for WINONA, our GYM\n"
+	.string "There's no need for ELIJAH, our GYM\n"
 	.string "LEADER, to deal with you!\p"
 	.string "I'm plenty good enough for you!$"
 
 FortreeCity_Gym_Text_FlintDefeat:
-	.string "WINONA, I…\n"
+	.string "ELIJAH, I…\n"
 	.string "I lost!$"
 
 FortreeCity_Gym_Text_FlintPostBattle:
-	.string "WINONA is cute and she's strong.\n"
-	.string "She's the ultimate LEADER!\p"
+	.string "ELIJAH is so cool.\n"
+	.string "He's the ultimate LEADER!\p"
 	.string "Blush…$"
 
 FortreeCity_Gym_Text_AshleyIntro:
-	.string "WINONA taught me personally!\n"
+	.string "ELIJAH taught me personally!\n"
 	.string "You can't beat me easily!$"
 
 FortreeCity_Gym_Text_AshleyDefeat:
 	.string "I was beaten…$"
 
 FortreeCity_Gym_Text_AshleyPostBattle:
-	.string "Thanks to WINONA, the people of\n"
-	.string "FORTREE can live without fear.$"
+	.string "Thanks to ELIJAH, I was able\n"
+	.string "to learn more about myself.$"
 
 FortreeCity_Gym_Text_HumbertoIntro:
-	.string "When WINONA takes to battle, her face\n"
+	.string "When ELIJAH takes to battle, his face\n"
 	.string "shines with beautiful determination…\p"
 	.string "I'm not letting you witness that\n"
 	.string "lovely sight!$"
@@ -215,7 +215,7 @@ FortreeCity_Gym_Text_HumbertoDefeat:
 
 FortreeCity_Gym_Text_HumbertoPostBattle:
 	.string "You'd better watch it!\n"
-	.string "Don't get distracted staring at WINONA\l"
+	.string "Don't get distracted staring at ELIJAH\l"
 	.string "or you'll go crashing down in a heap!$"
 
 FortreeCity_Gym_Text_DariusIntro:
@@ -229,28 +229,28 @@ FortreeCity_Gym_Text_DariusDefeat:
 FortreeCity_Gym_Text_DariusPostBattle:
 	.string "Sure, you beat me all right.\n"
 	.string "But you'd better watch it! Our LEADER\l"
-	.string "WINONA's POKéMON are all business.$"
+	.string "ELIJAH's POKéMON are all business.$"
 
 FortreeCity_Gym_Text_WinonaIntro:
-	.string "I am WINONA. I am the LEADER of\n"
-	.string "the FORTREE POKéMON GYM.\p"
-	.string "I have become one with BIRD POKéMON\n"
-	.string "and have soared the skies…\p"
-	.string "However grueling the battle, we have\n"
-	.string "triumphed with grace…\p"
-	.string "Witness the elegant choreography\n"
-	.string "of BIRD POKéMON and I!$"
+	.string "Woah hey! You're finally here!\n"
+	.string "I'm ELIJAH leader of this place.\p"
+	.string "OMAR put me here since he thought\n"
+	.string "I'd like the environment.\p"
+	.string "It's been cool so far...\n"
+	.string "So are you ready to battle?\p"
+	.string "I'll see if I remember what my\n"
+	.string "brother taught me!$"
 
 FortreeCity_Gym_Text_WinonaDefeat:
-	.string "Never before have I seen a TRAINER\n"
-	.string "command POKéMON with more grace\l"
-	.string "than I…\p"
-	.string "In recognition of your prowess,\n"
-	.string "I present to you this GYM BADGE.$"
+	.string "You did a good job back there!\n"
+	.string "Me and my POKeMON had a lot\l"
+	.string "of fun back there.\p"
+	.string "OMAR told me to give this to you,\n"
+	.string "if you managed to win.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
 	.string "{PLAYER} received the FEATHER BADGE\n"
-	.string "from WINONA.$"
+	.string "from ELIJAH.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
 	.string "With the FEATHER BADGE, all POKéMON up\n"
@@ -258,38 +258,38 @@ FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
 	.string "trades, will obey your every command.\p"
 	.string "You will also be able to use\n"
 	.string "the HM move FLY outside of battle.\p"
-	.string "And this…\n"
-	.string "This is a gift from me.$"
+	.string "And take this,\n"
+	.string "DVD copy of Wonka.$"
 
 FortreeCity_Gym_Text_ExplainAerialAce:
-	.string "TM40 contains AERIAL ACE.\p"
-	.string "Its speed…\n"
-	.string "No POKéMON should be able to avoid it.\p"
+	.string "jk its actually AERIAL ACE.\p"
+	.string "It always hits,\n"
+	.string "never misses, just like me B).\p"
 	.string "… … … … … …$"
 
 FortreeCity_Gym_Text_RegisteredWinona:
-	.string "Registered GYM LEADER WINONA\n"
+	.string "Registered GYM LEADER ELIJAH\n"
 	.string "in the POKéNAV.$"
 
 FortreeCity_Gym_Text_WinonaPostBattle:
-	.string "Though I fell to you, I will remain\n"
-	.string "devoted to BIRD POKéMON.$"
+	.string "We should have a rematch sometime,\n"
+	.string "there isn't much to do here.$"
 
 FortreeCity_Gym_Text_GymStatue:
 	.string "FORTREE CITY POKéMON GYM$"
 
 FortreeCity_Gym_Text_GymStatueCertified:
 	.string "FORTREE CITY POKéMON GYM\p"
-	.string "WINONA'S CERTIFIED TRAINERS:\n"
+	.string "ELIJAH'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:
-	.string "WINONA: We humans can never escape\n"
-	.string "gravity's pull on the ground.\p"
-	.string "But by striving for excellence,\n"
-	.string "we have the power to soar!\p"
-	.string "You have scaled the pinnacle as\n"
-	.string "the reigning CHAMPION.\p"
+	.string "ELIJAH: Yo you came back!\n"
+	.string "Wanna have a rematch?.\p"
+	.string "I've been learning a few more tricks,\n"
+	.string "I can't wait to use em!\p"
+	.string "I've been working hard to reach\n"
+	.string "where I am today.\p"
 	.string "Please, allow me to see your power\n"
 	.string "at full flight!$"
 
@@ -297,14 +297,14 @@ FortreeCity_Gym_Text_WinonaRematchDefeat:
 	.string "I failed to reach your height again…$"
 
 FortreeCity_Gym_Text_WinonaPostRematch:
-	.string "WINONA: Even though I have lost,\n"
+	.string "ELIJAH: Even though I have lost,\n"
 	.string "the wings of my heart remain unbroken.\p"
 	.string "I can rise and soar again and\n"
 	.string "yet again.\p"
 	.string "I am convinced of it!$"
 
 FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
-	.string "WINONA: We humans can never escape\n"
+	.string "ELIJAH: We humans can never escape\n"
 	.string "gravity's pull on the ground.\p"
 	.string "But by striving for excellence,\n"
 	.string "we have the power to soar!\p"

@@ -13,12 +13,27 @@ LilycoveCity_DepartmentStore_3F_EventScript_ClerkLeft::
 
 	.align 2
 LilycoveCity_DepartmentStore_3F_Pokemart_Vitamins:
-	.2byte ITEM_PROTEIN
-	.2byte ITEM_CALCIUM
-	.2byte ITEM_IRON
-	.2byte ITEM_ZINC
-	.2byte ITEM_CARBOS
-	.2byte ITEM_HP_UP
+	.2byte ITEM_ABILITY_CAPSULE
+	.2byte ITEM_ABILITY_PATCH
+	.2byte ITEM_AIR_BALLOON
+	.2byte ITEM_ASSAULT_VEST
+	.2byte ITEM_BINDING_BAND
+	.2byte ITEM_BIG_ROOT
+	.2byte ITEM_BLACK_BELT
+	.2byte ITEM_BLACK_SLUDGE
+	.2byte ITEM_BRIGHT_POWDER
+	.2byte ITEM_CHOICE_BAND
+	.2byte ITEM_CHOICE_SCARF
+	.2byte ITEM_CHOICE_SPECS
+	.2byte ITEM_DAMP_ROCK
+	.2byte ITEM_HEAT_ROCK
+	.2byte ITEM_SMOOTH_ROCK
+	.2byte ITEM_ICY_ROCK
+	.2byte ITEM_EJECT_BUTTON
+	.2byte ITEM_EJECT_PACK
+	.2byte ITEM_EVIOLITE
+	.2byte ITEM_EXPERT_BELT
+	.2byte ITEM_FLAME_ORB
 	.2byte ITEM_NONE
 	release
 	end
@@ -35,13 +50,26 @@ LilycoveCity_DepartmentStore_3F_EventScript_ClerkRight::
 
 	.align 2
 LilycoveCity_DepartmentStore_3F_Pokemart_StatBoosters:
-	.2byte ITEM_X_SPEED
-	.2byte ITEM_X_SP_ATK
-	.2byte ITEM_X_ATTACK
-	.2byte ITEM_X_DEFENSE
-	.2byte ITEM_DIRE_HIT
-	.2byte ITEM_GUARD_SPEC
-	.2byte ITEM_X_ACCURACY
+	.2byte ITEM_FOCUS_SASH
+	.2byte ITEM_HEAVY_DUTY_BOOTS
+	.2byte ITEM_LEEK
+	.2byte ITEM_LEFTOVERS
+	.2byte ITEM_LIFE_ORB
+	.2byte ITEM_LIGHT_BALL
+	.2byte ITEM_LIGHT_CLAY
+	.2byte ITEM_METRONOME
+	.2byte ITEM_MUSCLE_BAND
+	.2byte ITEM_POWER_HERB
+	.2byte ITEM_ROCKY_HELMET
+	.2byte ITEM_SHED_SHELL
+	.2byte ITEM_SHELL_BELL
+	.2byte ITEM_TERRAIN_EXTENDER
+	.2byte ITEM_THROAT_SPRAY
+	.2byte ITEM_WEAKNESS_POLICY
+	.2byte ITEM_WHITE_HERB
+	.2byte ITEM_WIDE_LENS
+	.2byte ITEM_WISE_GLASSES
+	.2byte ITEM_ZOOM_LENS
 	.2byte ITEM_NONE
 	release
 	end
@@ -59,18 +87,18 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman::
 	end
 
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
-	.string "For quickly toughening up POKéMON,\n"
-	.string "items are the best.\p"
-	.string "PROTEIN boosts ATTACK,\n"
-	.string "and CALCIUM raises SP. ATK.$"
+	.string "Woah these competitive,\n"
+	.string "items are the best!\p"
+	.string "Try to come up with,\n"
+	.string "unique strategies with them.$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance:
-	.string "I want my POKéMON to have more\n"
-	.string "endurance.\p"
-	.string "I'm trying to decide whether to raise\n"
-	.string "DEFENSE with IRON, or SP. DEF with ZINC.$"
+	.string "If I wanted my POKeMON to\n"
+	.string "last longer...\p"
+	.string "then I should let them hold a\n"
+	.string "LEFTOVERS.$"
 
 LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon:
-	.string "I gave a CARBOS to my POKéMON,\n"
-	.string "and its SPEED went up.$"
+	.string "I heard the ELITE 4 use,\n"
+	.string "these items in battle.$"
 

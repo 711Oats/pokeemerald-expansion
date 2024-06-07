@@ -452,19 +452,19 @@ SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum:
 	.string "the DEVON GOODS at the MUSEUM.$"
 
 SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove:
-	.string "ARCHIE: Oh?\n"
+	.string "CASSIE: Oh?\n"
 	.string "Not you again…\p"
-	.string "You are tenacious to track us here,\n"
+	.string "You are brave to track us here,\n"
 	.string "that much I will give you.\p"
 	.string "But now…\n"
 	.string "No one can stop us! No one!\p"
 	.string "Or, will you follow us back to our\n"
 	.string "HIDEOUT in LILYCOVE CITY?\p"
-	.string "Fwahahahaha…$"
+	.string "Hehehehe…$"
 
 SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine:
 	.string "CAPT. STERN: Why…\p"
-	.string "Why would TEAM AQUA steal my\n"
+	.string "Why would TEAM BAND steal my\n"
 	.string "SUBMARINE EXPLORER 1?\p"
 	.string "They can't be after the slumbering\n"
 	.string "POKéMON at the bottom of the sea…\p"
@@ -473,7 +473,7 @@ SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine:
 
 SlateportCity_Harbor_Text_TeamAquaLeftNeedDive:
 	.string "CAPT. STERN: Oh, {PLAYER}{KUN}…\p"
-	.string "Okay… So TEAM AQUA left before you\n"
+	.string "Okay… So TEAM BAND left before you\n"
 	.string "could stop them…\p"
 	.string "Oh, no, don't blame yourself.\n"
 	.string "You're not responsible for this.\p"

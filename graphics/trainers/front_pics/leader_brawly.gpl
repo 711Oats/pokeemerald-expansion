@@ -1,0 +1,21 @@
+GIMP Palette
+Name: Brawly_Palette
+Columns: 0
+# R   G   B
+
+  0   0   0  Black
+248 248 248  White
+ 44  44  54  Dark Grey
+ 73  73  88  Grey
+208 216 240  Light Grey
+ 58  42  42  Dark Brown
+104  72  72  Brown
+172 129 129  Mid brown (only in hair)
+192 136 104  Light Brown
+232 176 144  Tan
+248 216 200  Light Tan
+131  41  36  Darkest Red
+170  58  52  Dark Red
+208  72  64  Red
+231  94  84  Light Red
+

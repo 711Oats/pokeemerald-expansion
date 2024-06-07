@@ -578,30 +578,30 @@ MauvilleCity_Text_ScottYouDidntHoldBack:
 	.string "I'll be cheering for you!$"
 
 MauvilleCity_Text_WattsonNeedFavorTakeKey:
-	.string "WATTSON: Oh, {PLAYER}{KUN}!\n"
-	.string "You look like you have a lot of zip!\l"
-	.string "That's a good thing, wahahahaha!\p"
-	.string "Fine! I've decided!\n"
-	.string "I need a favor, {PLAYER}{KUN}!\p"
+	.string "GAEL: Oh, {PLAYER}{KUN}!\n"
+	.string "Can I ask you for a teensy favor?\l"
+	.string "I found this keycard in the back,\p"
+	.string "It unlocks something I think\n"
+	.string "So I just learned this, {PLAYER}{KUN}.\p"
 	.string "MAUVILLE CITY has an underground\n"
-	.string "sector called NEW MAUVILLE.\p"
+	.string "area called NEW MAUVILLE.\p"
 	.string "{PLAYER}{KUN}, I'd like you to go there and\n"
 	.string "switch off the GENERATOR.\p"
-	.string "The GENERATOR has been running a bit\n"
-	.string "haywire. It's getting unsafe.\p"
+	.string "OMAR told me it's been malfunctioning\n"
+	.string "which means, it's getting unsafe.\p"
 	.string "Here, this is the KEY to get into\n"
 	.string "NEW MAUVILLE.$"
 
 MauvilleCity_Text_WattsonWontBeChallenge:
-	.string "WATTSON: Don't you worry about it.\n"
-	.string "It won't be a challenge to you.\p"
+	.string "GAEL: Don't you worry about it.\n"
+	.string "I'm sure you can do it.\p"
 	.string "The entrance to NEW MAUVILLE is just\n"
 	.string "a short SURF away from ROUTE 110.\p"
 	.string "That's it, then, you have my trust!\n"
-	.string "Wahahahaha!$"
+	.string "See you soon!$"
 
 MauvilleCity_Text_WattsonThanksTakeTM:
-	.string "WATTSON: Wahahahaha!\p"
+	.string "GAEL: Yippee!\p"
 	.string "I knew it, {PLAYER}{KUN}! I knew I'd made\n"
 	.string "the right choice asking you!\p"
 	.string "This is my thanks--a TM containing\n"
@@ -609,9 +609,9 @@ MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "Go on, you've earned it!$"
 
 MauvilleCity_Text_WattsonYoungTakeCharge:
-	.string "WATTSON: Wahahahaha!\p"
-	.string "It pleases me to no end to see\n"
-	.string "the young step up and take charge!$"
+	.string "GAEL: Yippee!\p"
+	.string "You go slay queen, it's important\n"
+	.string "for you to step up and take charge!$"
 
 MauvilleCity_Text_NurseHurtMonBackToHealth:
 	.string "You know, it's cool to have POKéMON\n"
@@ -640,7 +640,7 @@ MauvilleCity_Text_CitySign:
 
 MauvilleCity_Text_GymSign:
 	.string "MAUVILLE CITY POKéMON GYM\n"
-	.string "LEADER: WATTSON\l"
+	.string "LEADER: GAEL\l"
 	.string "“The cheerfully electrifying man!”$"
 
 MauvilleCity_Text_BikeShopSign:

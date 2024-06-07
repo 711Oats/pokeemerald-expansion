@@ -1406,9 +1406,9 @@ SootopolisCity_Movement_DestroyTask::
 
 SootopolisCity_Text_GymSign:
 	.string "SOOTOPOLIS CITY POKéMON GYM\n"
-	.string "LEADER: JUAN\p"
-	.string "“The GYM LEADER with the beauty\n"
-	.string "of pure water!”$"
+	.string "LEADER: RYLEE\p"
+	.string "“The GYM LEADER with a fiery\n"
+	.string "spirit!”$"
 
 SootopolisCity_Text_CitySign:
 	.string "SOOTOPOLIS CITY\p"
@@ -1539,7 +1539,7 @@ SootopolisCity_Text_LeadSuperiorTrainerToCave:
 	.string "A TRAINER who has knowledge and\n"
 	.string "experience of many kinds of POKéMON…\p"
 	.string "If such a person were to appear, I was\n"
-	.string "instructed by WALLACE to lead that\l"
+	.string "instructed by OMAR to lead that\l"
 	.string "TRAINER to this CAVE.$"
 
 SootopolisCity_Text_AwakenedPokemonClash:
@@ -1596,33 +1596,33 @@ SootopolisCity_Text_YouBroughtFlyingMon:
 	.string "Well, aren't you amazing!$"
 
 SootopolisCity_Text_GroudonPleaseStop:
-	.string "MAXIE: G… GROUDON…\n"
+	.string "OLLIE: G… GROUDON…\n"
 	.string "Please! Stop what you're doing!\p"
-	.string "I know the extent of your power now!\p"
+	.string "You're not even giving us any room!\p"
 	.string "If you keep going, all HOENN, not just\n"
 	.string "SOOTOPOLIS, will be utterly ruined!$"
 
 SootopolisCity_Text_AfterAllOurScheming:
-	.string "MAXIE: So the super-ancient POKéMON\n"
+	.string "CASSIE: So the super-ancient POKéMON\n"
 	.string "weren't only GROUDON and KYOGRE…\p"
 	.string "After all our fruitless scheming and\n"
 	.string "frantic efforts, that one POKéMON's\l"
-	.string "simple action puts everything right\l"
-	.string "again as if nothing had happened…\p"
-	.string "Fu…\n"
-	.string "Fuhahaha…$"
+	.string "saying 'nuh uh' just stopped everything\l"
+	.string "as if nothing had happened…\p"
+	.string "Ah…\n"
+	.string "Hahahaha…$"
 
 SootopolisCity_Text_KyogreCalmDown:
-	.string "ARCHIE: KYOGRE! What's wrong?!\n"
+	.string "CASSIE: KYOGRE! What's wrong?!\n"
 	.string "Look over here! It's the RED ORB!\l"
-	.string "Calm down! KYOGRE!\p"
+	.string "Chill out KYOGRE!\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "It's no good!\n"
 	.string "It's not responding at all!$"
 
 SootopolisCity_Text_TryingMeaninglessToPokemon:
-	.string "ARCHIE: KYOGRE and GROUDON both\n"
+	.string "OLLIE: KYOGRE and GROUDON both\n"
 	.string "flew off to who knows where.\p"
 	.string "The weather in HOENN has returned\n"
 	.string "to its normal state…\p"
@@ -1659,7 +1659,7 @@ SootopolisCity_Text_DoesThisMakeYourFearPokemon:
 SootopolisCity_Text_HereWereAreHelpWallace:
 	.string "STEVEN: Okay, here we are!\p"
 	.string "Inside here you'll find someone named\n"
-	.string "WALLACE.\p"
+	.string "OMAR.\p"
 	.string "I think you have what's needed to\n"
 	.string "help him…$"
 
@@ -1678,31 +1678,31 @@ SootopolisCity_Text_SoThatsRayquaza:
 	.string "POKéMON would flee from it in fear…$"
 
 SootopolisCity_Text_MaxieArchieLeft:
-	.string "STEVEN: It looks like both MAXIE and\n"
-	.string "ARCHIE have gone away somewhere.\p"
+	.string "STEVEN: It looks like both OLLIE and\n"
+	.string "CASSIE have gone away somewhere.\p"
 	.string "Perhaps they've gone to MT. PYRE to\n"
 	.string "return those ORBS…$"
 
 SootopolisCity_Text_HaventYouScaledSkyPillar:
-	.string "WALLACE: Oh?\n"
+	.string "OMAR: Oh?\n"
 	.string "{PLAYER}{KUN}?\p"
-	.string "Haven't you scaled the SKY PILLAR\n"
+	.string "You haven't gone to SKY PILLAR\n"
 	.string "yet?\p"
 	.string "I'm sure that you can make it to\n"
 	.string "the top of the SKY PILLAR…$"
 
 SootopolisCity_Text_AquaMagmaDidntMeanHarm:
-	.string "WALLACE: {PLAYER}{KUN}…\p"
-	.string "The leaders of TEAM MAGMA and AQUA,\n"
+	.string "OMAR: {PLAYER}{KUN}…\p"
+	.string "The leaders of TEAM ROBOTICS and BAND,\n"
 	.string "I don't think they meant harm.\p"
-	.string "It wouldn't hurt to hear what they\n"
-	.string "have to say for themselves.$"
+	.string "They are friends of mine,\n"
+	.string "sometimes they just get careless.$"
 
 SootopolisCity_Text_ThankYouForHelpAcceptThis:
-	.string "WALLACE: {PLAYER}{KUN}…\n"
-	.string "My eyes didn't deceive me.\p"
-	.string "Thanks to your help, SOOTOPOLIS…\n"
-	.string "No, all of HOENN was saved.\p"
+	.string "OMAR: {PLAYER}{KUN}…\n"
+	.string "You resolved a conflict between\p"
+	.string "POKeMON gods.\n"
+	.string "You did it, yippee.\p"
 	.string "On behalf of the people, I thank you.\p"
 	.string "This is a gift from me.\n"
 	.string "Please accept it.$"
@@ -1713,14 +1713,14 @@ SootopolisCity_Text_ExplainWaterfallGoToGym:
 	.string "If you have the RAIN BADGE, a POKéMON\n"
 	.string "that has learned that HM move can\l"
 	.string "force its way up waterfalls.\p"
-	.string "And where does one get the RAIN BADGE?\n"
-	.string "You know, don't you?\p"
+	.string "If you want the RAIN BADGE\n"
+	.string "then you have tooo...\p"
 	.string "That's right! You have to beat\n"
 	.string "the SOOTOPOLIS GYM LEADER.\p"
 	.string "When you're all set to go, step through\n"
 	.string "that door.$"
 
 SootopolisCity_Text_DazzledByMentor:
-	.string "WALLACE: I'm sure that you will be\n"
-	.string "dazzled by my mentor's breathtakingly\l"
-	.string "elegant battle style.$"
+	.string "OMAR: I'm sure that you will be\n"
+	.string "alright in yout journey ahead.\l"
+	.string "Stay safe!$"

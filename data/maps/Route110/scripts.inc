@@ -744,7 +744,7 @@ Route110_Movement_BirchExit4:
 	step_end
 
 Route110_Text_WeCantTalkAboutAquaActivities:
-	.string "TEAM AQUA's activities…\n"
+	.string "TEAM BAND's activities…\n"
 	.string "We can't talk about them yet.$"
 
 Route110_Text_KickUpARuckus:
@@ -753,10 +753,10 @@ Route110_Text_KickUpARuckus:
 
 Route110_Text_MyFirstJobInAqua:
 	.string "This is my first job after joining\n"
-	.string "TEAM AQUA. It's a little scary.$"
+	.string "TEAM BAND. It's a little scary.$"
 
 Route110_Text_AquaActionsBringSmiles:
-	.string "TEAM AQUA's actions should bring\n"
+	.string "TEAM BAND's actions should bring\n"
 	.string "smiles to people's faces!$"
 
 Route110_Text_MayLetsBattle:
@@ -921,10 +921,10 @@ Route110_Text_CyclingRoadSign:
 	.string "SEASIDE CYCLING ROAD$"
 
 Route110_Text_AquaWasHere:
-	.string "“TEAM AQUA was here!”\p"
+	.string "“TEAM BAND was here!”\p"
 	.string "Someone painted that onto this sign,\n"
 	.string "but then someone else painted over it.\p"
-	.string "“TEAM MAGMA rules!” is what it\n"
+	.string "“TEAM ROBOTICS rules!” is what it\n"
 	.string "says now.$"
 
 Route110_Text_Route103Sign:
@@ -965,30 +965,30 @@ Route110_Text_ThereIsNoRecord:
 	.string "challenge. There is no record…$"
 
 Route110_Text_ImagineSeeingYouHere:
-	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
-	.string "Imagine seeing you here!\p"
-	.string "And where might my {RIVAL} be?$"
+	.string "MR.ITANI: Oh, {PLAYER}{KUN}!\n"
+	.string "Didn't expect you here.\p"
+	.string "And where might {RIVAL} be?$"
 
 Route110_Text_HeardYouInstallMatchCall:
 	.string "Oh, I see!\n"
 	.string "You two are running separately.\l"
-	.string "Well, that's fine.\p"
-	.string "Oh, yes, I heard that your POKéNAV\n"
-	.string "had the MATCH CALL system installed.\p"
+	.string "That's a surprise.\p"
+	.string "Oh you got the POKéNAV upgrade,\n"
+	.string "the MATCH CALL system is installed.\p"
 	.string "Well, then, I should register you in\n"
 	.string "my POKéNAV as well.\p"
-	.string "That way, even when we're apart,\n"
+	.string "That way, we can call,\n"
 	.string "I can rate your POKéDEX anytime.\p"
 	.string "… … … … … …$"
 
 Route110_Text_RegisteredBirchInPokenav:
-	.string "Registered PROF. BIRCH\n"
+	.string "Registered MR. ITANI\n"
 	.string "in the POKéNAV.$"
 
 Route110_Text_KeepAnEyeOutForRival:
-	.string "PROF. BIRCH: {PLAYER}{KUN}…\p"
-	.string "Please keep an eye out for my {RIVAL}.\n"
+	.string "MR. ITANI: {PLAYER}{KUN}\p"
+	.string "Please keep an eye out {RIVAL}.\n"
 	.string "… … … … … …\p"
 	.string "Well, I had better get going.\n"
-	.string "See you again, {PLAYER}{KUN}!$"
+	.string "See you soon, {PLAYER}{KUN}.$"
 

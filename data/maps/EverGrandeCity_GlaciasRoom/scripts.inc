@@ -59,25 +59,25 @@ EverGrandeCity_GlaciasRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_GlaciasRoom_Text_IntroSpeech:
-	.string "Welcome, my name is GLACIA\n"
-	.string "of the ELITE FOUR.\p"
-	.string "I've traveled from afar to HOENN\n"
-	.string "so that I may hone my ice skills.\p"
-	.string "But all I have seen are challenges by\n"
-	.string "weak TRAINERS and their POKéMON.\p"
-	.string "What about you?\p"
-	.string "It would please me to no end if I could\n"
-	.string "go all out against you!$"
+	.string "Oh hey team, I'm V\n"
+	.string "one of the ELITE FOUR.\p"
+	.string "OMAR put me here for some reason,\n"
+	.string "I'm more experienced with the cards.\p"
+	.string "But I've been learning the real deal.\n"
+	.string "So ready to fight? I'm gonna\p"
+	.string "take you to a smackdown.\p"
+	.string "I'm not letting you past me!\n"
+	.string "Prepare yourself!$"
 
 EverGrandeCity_GlaciasRoom_Text_Defeat:
-	.string "You and your POKéMON…\n"
-	.string "How hot your spirits burn!\p"
-	.string "The all-consuming heat overwhelms.\p"
-	.string "It's no surprise that my icy skills\n"
-	.string "failed to harm you.$"
+	.string "DAMMIT I'm gonna POOP ON YOU.\n"
+	.string "Ugh should've known better!\p"
+	.string "Well I guess that means you can move on.\p"
+	.string "Wanna play magic after?\n"
+	.string "I've got a second deck.$"
 
 EverGrandeCity_GlaciasRoom_Text_PostBattleSpeech:
-	.string "Advance to the next room.\p"
-	.string "And there, confirm the truly fearsome\n"
-	.string "side of the POKéMON LEAGUE.$"
+	.string "You can move to the next room.\p"
+	.string "If you make it to OMAR\n"
+	.string "can you ask him if we can play MAGIC.$"
 

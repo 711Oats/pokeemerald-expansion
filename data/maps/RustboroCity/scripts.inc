@@ -1108,7 +1108,7 @@ RustboroCity_Text_HelpMeIWasRobbed:
 	.string "Oh, it's you!\p"
 	.string "You're that fantastic TRAINER who\n"
 	.string "helped me in PETALBURG WOODS!\p"
-	.string "Help me! I was robbed by TEAM AQUA!\n"
+	.string "Help me! I was robbed by TEAM BAND!\n"
 	.string "I have to get the DEVON GOODS back!\p"
 	.string "If I don't…\n"
 	.string "I'm going to be in serious trouble.$"
@@ -1241,8 +1241,8 @@ RustboroCity_Text_DevonCorpSign:
 
 RustboroCity_Text_GymSign:
 	.string "RUSTBORO CITY POKéMON GYM\n"
-	.string "LEADER: ROXANNE\p"
-	.string "“The ROCK-loving honors student!”$"
+	.string "LEADER: KAMILA\p"
+	.string "“The headstrong student!”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
 	.string "DEVON CORP. BRANCH OFFICE\p"
